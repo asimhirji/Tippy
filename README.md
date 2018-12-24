@@ -1,1 +1,1 @@
-Calculates the bill with different tips.
+**Tippy** calculates the bill with different tips.
